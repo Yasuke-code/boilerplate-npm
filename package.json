@@ -1,6 +1,7 @@
 {
 	"author": "matan",
 	"description": "A project that does something awesome",
+	"keywords":["graet", "cool","ageil"],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
